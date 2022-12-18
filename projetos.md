@@ -26,7 +26,7 @@ O projetos pensados são (sem ordem de importância ou preferência). Será o gr
 5. **Alunagem**: uma nave tem de aterrar na Lua, um ambiente cheio de rochas e com poucas superfícies planas; conta com poucos movimentos, combustível limitado e é necessário controlar a descida para a nave cair na vertical e com velocidade controlada.<br>
 \[Grafismo em Turtle. Controlo com teclado ou rato\] 
 
-##Desenhos
+## Desenhos
 
 Criar desenhos simples ou complexos, permitindo diferentes posições, escalas, temas (estilos e cores), entre outros atributos.
 
