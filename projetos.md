@@ -49,10 +49,7 @@ Criação de animações por ilusão de desenhos rapidamente atualizados. Explor
 2. **Árvore que abana**: desenho de uma árvore (por exemplo com com base numa função recursiva) e aplicação de ligeiras alterações nos ângulos das arestas ao longo do tempo que fazem a árvore abanar / dobrar; possibilidade de inclusão de vento variável ao longo do tempo, que aumenta ou diminui os ângulos.<br>
 \[Grafismo em Turtle\]
 
-3. **Máquina de escrever**: mecanismo que vai apresentado os caracteres de uma frase um-a-um, consciente do comprimento da linha, com eventuais regras de hifenação (por exemplo sempre entre uma vogal e uma consoante); eventual inclusão de som de teclas de máquina de escrever.<br>
-\[Grafismo em ASCII ou Turtle\]
-
-4. **Neve acumulada**: a neve vai caindo do ponteiro do rato e vai-se acumulando no chão; à medida que se acumula vai deslizando para os lados; as camadas vão derretendo lentamente para que o ecrã nunca encha.<br>
+3. **Neve acumulada**: a neve vai caindo do ponteiro do rato e vai-se acumulando no chão; à medida que se acumula vai deslizando para os lados; as camadas vão derretendo lentamente para que o ecrã nunca encha.<br>
 \[Grafismo em ASCII ou Turtle\]
 
 ## Mecanismos
