@@ -38,3 +38,19 @@ Criar desenhos simples ou complexos, permitindo diferentes posições, escalas, 
 
 3. **Relógio analógico**: relógio com três ponteiros de diferentes tamanhos, que rodam com a passagem do tempo; possibilidade de só rodarem segundo-a-segundo / minuto-a-minuto / hora-a-hora ou em frações de tempo e em ângulos proporcionais; aplicar diferentes posições, escalas e temas (estilos e cores).<br>
 \[Grafismo em Turtle\]
+
+## Animações
+
+Criação de animações por ilusão de desenhos rapidamente atualizados. Explorar o limite até ao ponto da animação ser muito lenta ~ obrigando a compromissos!
+
+1. **Velocidade da luz**: desenho de linhas convergentes que simulam uma viagem no hiperespaço.<br>
+\[Grafismo em Turtle\]
+
+2. **Árvore que abana**: desenho de uma árvore (por exemplo com com base numa função recursiva) e aplicação de ligeiras alterações nos ângulos das arestas ao longo do tempo que fazem a árvore abanar / dobrar; possibilidade de inclusão de vento variável ao longo do tempo, que aumenta ou diminui os ângulos.<br>
+\[Grafismo em Turtle\]
+
+3. **Máquina de escrever**: mecanismo que vai apresentado os caracteres de uma frase um-a-um, consciente do comprimento da linha, com eventuais regras de hifenação (por exemplo sempre entre uma vogal e uma consoante); eventual inclusão de som de teclas de máquina de escrever.<br>
+\[Grafismo em ASCII ou Turtle\]
+
+4. **Neve acumulada**: a neve vai caindo do ponteiro do rato e vai-se acumulando no chão; à medida que se acumula vai deslizando para os lados; as camadas vão derretendo lentamente para que o ecrã nunca encha.<br>
+\[Grafismo em ASCII ou Turtle\]
