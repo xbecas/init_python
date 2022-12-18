@@ -25,3 +25,16 @@ O projetos pensados são (sem ordem de importância ou preferência). Será o gr
 
 5. **Alunagem**: uma nave tem de aterrar na Lua, um ambiente cheio de rochas e com poucas superfícies planas; conta com poucos movimentos, combustível limitado e é necessário controlar a descida para a nave cair na vertical e com velocidade controlada.<br>
 \[Grafismo em Turtle. Controlo com teclado ou rato\] 
+
+##Desenhos
+
+Criar desenhos simples ou complexos, permitindo diferentes posições, escalas, temas (estilos e cores), entre outros atributos.
+
+1. **Desenhador de nuvens**: desenhar nuvens com base num polígono definido por n-vértices e em círculos que unem esses vértices, dois-a-dois. Possibilidade de definir diferentes posições, escalas e estilos (fundos, cores, nuvens mais ou menos redondas)<br>
+\[Grafismo em Turtle\]
+
+2. **Alfabeto desenhado**: desenhar todas as letras do alfabeto com linhas simples, baseado numa grelha; o principal objetivo é definir um padrão de desenho, por exemplo uma grelha com 10 x 8 unidades de largura, distribuir o trabalho entre os diferentes participantes e, no final, compilar os diferentes contributos para alcançar o resultado esperado; possibilidade de definir diferentes posições, escalas e estilos (tipos de letra e cores).<br>
+\[Grafismo em Turtle\]
+
+3. **Relógio analógico**: relógio com três ponteiros de diferentes tamanhos, que rodam com a passagem do tempo; possibilidade de só rodarem segundo-a-segundo / minuto-a-minuto / hora-a-hora ou em frações de tempo e em ângulos proporcionais; aplicar diferentes posições, escalas e temas (estilos e cores).<br>
+\[Grafismo em Turtle\]
