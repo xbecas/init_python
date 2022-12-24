@@ -45,6 +45,24 @@ Sugestão de passos para aprender Python & Python Turtle
         MovimentoBasico-->Viajar
       end
       
+    end
+```
+
+```mermaid
+  graph TD
+  
+    subgraph "PYTHON TURTLE - TRUQUES E DICAS"
+      %% Truques para conforto e eficiência
+      ScreenSetup("CONFIGURAÇÃO DA JANELA GRÁFICA<br>--------------------------------------<br>Screen().setup")
+      Velocidade("VELOCIDADE<br>--------------<br>speed")
+    end
+```
+
+```mermaid
+  graph TD
+
+    subgraph "PYTHON TURTLE - PARTE 2"
+
       subgraph "Movimentos circulares"
         %% Movimentos circulares
         MovimentoCircular("MOVIMENTOS CIRCULARES<br>--------------------------------<br>circle(r)<br>circle(r, e)")
@@ -58,16 +76,5 @@ Sugestão de passos para aprender Python & Python Turtle
         Estampas("ESTAMPAS/CARIMBOS<br>--------------------------<br>dot<br>shape, shapesize<br>stamp")
         Estilizar-->Estampas
       end
-
-    end
-```
-
-```mermaid
-  graph TD
-  
-    subgraph "PYTHON TURTLE - TRUQUES E DICAS"
-      %% Truques para conforto e eficiência
-      ScreenSetup("CONFIGURAÇÃO DA JANELA GRÁFICA<br>--------------------------------------<br>Screen().setup")
-      Velocidade("VELOCIDADE<br>--------------<br>speed")
-    end
+  end
 ```
