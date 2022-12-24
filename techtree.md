@@ -2,7 +2,9 @@
 
 Sugestão de passos para aprender Python & Python Turtle
 
-## Diagrama de alto nível
+## Como começar
+
+Para começarmos a programar em Python 3 é necessário termos o interpretador de Python no nosso computador e um editor de texto. Recomendamos o Editor Mu por ser simples de utilizar e trazer uma instalação de Python, simplificando o início desta aventura!
 
 ```mermaid
   graph TD
@@ -26,6 +28,10 @@ Sugestão de passos para aprender Python & Python Turtle
     end
 ```
 
+## Python turtle
+
+O Python conhece uma tartaruga que nos vai ensinar a programar, enquanto desenha no ecrã! Queres conhecê-la?
+
 ```mermaid
   graph TD
 
@@ -41,12 +47,16 @@ Sugestão de passos para aprender Python & Python Turtle
       subgraph "Movimentos básicos"
         %% Movimentos básicos
         MovimentoBasico("MOVIMENTOS BÁSICOS<br>---------------------------<br>fd, bk, lt, rt<br>Espaço cartesiano x-y<br>Rotação com ângulos 0-360°")
-        Viajar("VIAJAR<br>--------<br>up, down<br>goto, setpos<br>setx, sety, home")
+        Viajar("VIAJAR<br>--------<br>up, down<br>goto, setpos<br>setx, sety<br>home")
         MovimentoBasico-->Viajar
       end
       
     end
-```
+``` 
+
+## Truque e dicas
+
+Vamos conhecer alguns truques para ser mais fácil e mais giro programar!
 
 ```mermaid
   graph TD
@@ -59,6 +69,10 @@ Sugestão de passos para aprender Python & Python Turtle
       Undo("DESFAZER<br>------------<br>undo")
     end
 ```
+
+## Python turtle - parte 2
+
+Agora que já sabemos como fazer desenhos simples vamos aprender a fazer desenhos mais completos... e a cores!
 
 ```mermaid
   graph TD
