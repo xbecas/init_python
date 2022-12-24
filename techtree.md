@@ -53,8 +53,10 @@ Sugestão de passos para aprender Python & Python Turtle
   
     subgraph "PYTHON TURTLE - TRUQUES E DICAS"
       %% Truques para conforto e eficiência
-      ScreenSetup("CONFIGURAÇÃO DA JANELA GRÁFICA<br>--------------------------------------<br>Screen().setup")
+      ScreenSetup("CONFIGURAÇÃO DA JANELA GRÁFICA<br>--------------------------------------------<br>Screen().setup")
       Velocidade("VELOCIDADE<br>--------------<br>speed")
+      Limpar("LIMPAR<br>----------<br>clear, reset")
+      Undo("DESFAZER<br>------------<br>undo")
     end
 ```
 
