@@ -32,24 +32,31 @@ Sugestão de passos para aprender Python & Python Turtle
     subgraph "PYTHON TURTLE - PARTE 1"
 
       subgraph "Para começar"
+        %% Python turtle
+        Comecar("COMEÇAR<br>------------<br>Iniciar Mu<br>Modo Python 3")
+        PrimeiroPrograma("PRIMEIRO PROGRAMA<br>--------------------------<br>import turtle<br><br>turtle.forward(100)")
+        Comecar-->PrimeiroPrograma
+      end
+
+      subgraph "Movimentos básicos"
         %% Movimentos básicos
         MovimentoBasico("MOVIMENTOS BÁSICOS<br>---------------------------<br>fd, bk, lt, rt<br>Espaço cartesiano x-y<br>Rotação com ângulos 0-360°")
         Viajar("VIAJAR<br>--------<br>up, down<br>goto, setpos<br>setx, sety, home")
-        MovimentoBasico---Viajar
+        MovimentoBasico-->Viajar
       end
       
       subgraph "Movimentos circulares"
         %% Movimentos circulares
         MovimentoCircular("MOVIMENTOS CIRCULARES<br>--------------------------------<br>circle(r)<br>circle(r, e)")
         PoligonosRegulares("POLÍGONOS REGULARES<br>-----------------------------<br>circle(r, e, s)")
-        MovimentoCircular---PoligonosRegulares
+        MovimentoCircular-->PoligonosRegulares
       end
 
       subgraph "Estilização"
         %% Estilização - cores e espessuras
         Estilizar("ESTILIZAR<br>-------------<br>pencolor('named color')<br>penwidth")
         Estampas("ESTAMPAS/CARIMBOS<br>--------------------------<br>dot<br>shape, shapesize<br>stamp")
-        Estilizar---Estampas
+        Estilizar-->Estampas
       end
 
     end
