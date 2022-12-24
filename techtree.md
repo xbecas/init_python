@@ -34,7 +34,6 @@ Sugestão de passos para aprender Python & Python Turtle
 ```
 
 ```mermaid
-
   graph TD
   
     subgraph "PYTHON TURTLE - TRUQUES E DICAS"
