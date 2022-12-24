@@ -26,7 +26,8 @@ Para começarmos a programar em Python 3 é necessário termos o interpretador d
   
     subgraph "PYTHON - CONCEITOS BÁSICOS"
       Fundamental("FUNDAMENTAL SABER<br>--------------------------<br>Utilizar o teclado<br>Ler e gravar ficheiros")
-      Importante("IMPORTANTE SABER<br>-----------------------<br>Copiar e colar texto<br>Comentários e docstrings")
+      Importante("IMPORTANTE SABER<br>-----------------------<br>Copiar e colar texto<br>Formatar<br>Escrever comentários e docstrings")
+      Erros("APRENDER COM OS ERROS<br>--------------------------------<br>Ler e interpretar erros<br>Verificar")
     end
 ```
 
