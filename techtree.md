@@ -74,9 +74,12 @@ Sugestão de passos para aprender Python & Python Turtle
 
       subgraph "Estilização"
         %% Estilização - cores e espessuras
-        Estilizar("ESTILIZAR<br>-------------<br>penwidth<br>pencolor('named color')<br>pencolor(0.0..1.0)<br>pencolor(0..255)")
-        Estampas("ESTAMPAS/CARIMBOS<br>--------------------------<br>dot<br>shape, shapesize<br>stamp<br>undostamp")
-        Estilizar-->Estampas
+        Estilizar("ESTILIZAR<br>-------------<br>penwidth<br>pencolor('color')<br>pencolor(r, g, b - 0.0..1.0)<br>pencolor(r, g, b - 0..255)")
+        Fundo("COR/IMAGEM DE FUNDO<br>-----------------------------<br>Screen().bgcolor<br>Screen().bgpic")
+        Formas("FORMAS<br>---------<br>shape<br>shapesize<br>register_shape")
+        Estampas("ESTAMPAS/CARIMBOS<br>--------------------------<br>dot<br>stamp<br>undostamp")
+        Estilizar-->Fundo
+        Formas-->Estampas
       end
   end
 ```
