@@ -6,6 +6,28 @@ Sugestão de passos para aprender Python & Python Turtle
 
 ```mermaid
   graph TD
+  
+    subgraph "PYTHON - INSTALAÇÃO"
+      %% Python - como começar
+      Instalar("INSTALAR PYTHON<br>-----------------------<br>https://www.python.org<br>https://codewith.mu")
+      Ambiente("AMBIENTE<br>--------------<br>REPL<br>Editor de texto vs IDE")
+      Mu("EDITOR MU (IDE)<br>---------------------<br>Vem com uma instalação de Python<br>Editor simples e fácil de usar")
+      Instalar-->Mu
+      Ambiente-->Mu
+    end
+```
+
+```mermaid
+  graph TD
+  
+    subgraph "PYTHON - CONCEITOS BÁSICOS"
+      Fundamental("FUNDAMENTAL SABER<br>--------------------------<br>Utilizar o teclado<br>Ler e gravar ficheiros")
+      Importante("IMPORTANTE SABER<br>-----------------------<br>Copiar e colar texto<br>Comentários e docstrings")
+    end
+```
+
+```mermaid
+  graph TD
 
     subgraph "PYTHON TURTLE - PARTE 1"
 
@@ -38,7 +60,7 @@ Sugestão de passos para aprender Python & Python Turtle
   
     subgraph "PYTHON TURTLE - TRUQUES E DICAS"
       %% Truques para conforto e eficiência
-      ScreenSetup("CONFIGURAÇÃO DA JANELA GRÁFICA<br>--------------------------------------<br>turtle.Screen().setup")
+      ScreenSetup("CONFIGURAÇÃO DA JANELA GRÁFICA<br>--------------------------------------<br>Screen().setup")
       Velocidade("VELOCIDADE<br>--------------<br>speed")
     end
 ```
