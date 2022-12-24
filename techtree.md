@@ -32,3 +32,14 @@ Sugestão de passos para aprender Python & Python Turtle
 
     end
 ```
+
+```mermaid
+
+  graph TD
+  
+    subgraph "PYTHON TURTLE - TRUQUES E DICAS"
+      %% Truques para conforto e eficiência
+      ScreenSetup("CONFIGURAÇÃO DA JANELA GRÁFICA<br>--------------------------------------<br>turtle.Screen().setup")
+      Velocidade("VELOCIDADE<br>--------------<br>speed")
+    end
+```
