@@ -72,8 +72,8 @@ Sugestão de passos para aprender Python & Python Turtle
 
       subgraph "Estilização"
         %% Estilização - cores e espessuras
-        Estilizar("ESTILIZAR<br>-------------<br>pencolor('named color')<br>penwidth")
-        Estampas("ESTAMPAS/CARIMBOS<br>--------------------------<br>dot<br>shape, shapesize<br>stamp")
+        Estilizar("ESTILIZAR<br>-------------<br>penwidth<br>pencolor('named color')<br>pencolor(0.0..1.0)<br>pencolor(0..255)")
+        Estampas("ESTAMPAS/CARIMBOS<br>--------------------------<br>dot<br>shape, shapesize<br>stamp<br>undostamp")
         Estilizar-->Estampas
       end
   end
