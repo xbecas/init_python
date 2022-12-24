@@ -38,17 +38,17 @@ Criação de animações por ilusão de desenhos rapidamente atualizados. Explor
 
 Criação de motores lógicos de transformação de dados, que facilitem (preferencialmente) o desempenho de soluções anteriormente identificadas.
 
-1. **Desenhador Turtle**: fazer desenhos com base em frases compactas de instruções, por exemplo "F100L90F50"; facilita a partilha de desenhos entre pares que tenham o desenhador.<br>
-\[Grafismo em Turtle\]
+1. **Desenhador Turtle**: tradutor de frases compactas em instruções, por exemplo `perform(t, 'F100L90F50')` ou `t.perform('F100L90F50')` equivale a `t.fd(100); t.left(90); t.fd(50)`; facilita a partilha de desenhos entre pares que tenham o desenhador.<br>
+\[Validação com grafismo em Turtle\]
 
-2. **Máquina de escrever**: mecanismo que vai apresentado os caracteres de uma frase um-a-um, consciente do comprimento da linha, com eventuais regras de hifenação (por exemplo sempre entre uma vogal e uma consoante); eventual inclusão de som de teclas de máquina de escrever.<br>
-\[Grafismo em ASCII ou Turtle\]
+2. **Máquina de escrever**: mecanismo para apresentação individual (um-a-aum) de caracteres de uma frase, consciente do comprimento da linha para quebra de linha antes da última palavra ou com eventuais regras de hifenação (por exemplo sempre entre uma vogal e uma consoante); eventual inclusão de som de teclas de máquina de escrever.<br>
+\[Validação com grafismo em ASCII ou Turtle\]
 
-3. **Resolve o sudoku**: mecanismo para resolver sudoku, dado uma condição inicial; critérios de validade e método "força bruta" por tentativa e erro de diversas soluções; eventual introdução de etapas mais inteligentes.<br>
-\[Grafismo em ASCII ou Turtle\]
+3. **Resolve o sudoku**: mecanismo para resolver sudoku, dado um estado inicial; critérios de validade e método "força bruta" por tentativa e erro de diversas soluções; eventual introdução de etapas mais inteligentes.<br>
+\[Validação com grafismo em ASCII ou Turtle\]
 
-4. **Seletor de cores**: definição de cores em RGB, CMYK, HSL, etc.; aproximação da cor resultante a cores tkinter, utilizadas no módulo turtle.<br>
-\[Grafismo em Turtle. Controlo com teclado ou rato\]
+4. **Seletor de cores**: definição e conversão de cores entre RGB, CMYK, HSL, etc.; aproximação da cor resultante a cores pré-definidas no tkinter, com nomes, utilizadas no módulo turtle.<br>
+\[Validação com grafismo em Turtle. Controlo com teclado ou rato\]
 
 ### Jogos
 
