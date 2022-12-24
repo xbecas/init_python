@@ -1,6 +1,8 @@
-# Python Turtle Tech-Tree
+# Python Turtle - uma aventura de programação!
 
-Sugestão de passos para aprender Python & Python Turtle
+Este guião pretende ajudar a começar a programar em Python 3. É uma aventura que irá permitir-te compreender os conceitos básicos de programação, estruturar o pensamento e fazer uns desenhos e jogos fantásticos, baseado num módulo chamado `turtle`!
+
+Boa sorte com a aventura!
 
 ## Como começar
 
