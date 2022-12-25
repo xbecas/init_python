@@ -31,7 +31,7 @@ Para começarmos a programar em Python 3 é necessário termos o interpretador d
     end
 ```
 
-## Python turtle
+## Python turtle - parte 1
 
 O Python conhece uma tartaruga que nos vai ensinar a programar, enquanto desenha no ecrã! Queres conhecê-la?
 
@@ -57,7 +57,7 @@ O Python conhece uma tartaruga que nos vai ensinar a programar, enquanto desenha
     end
 ``` 
 
-## Truque e dicas
+## Python turtle - truque e dicas
 
 Vamos conhecer alguns truques para ser mais fácil e mais giro programar!
 
