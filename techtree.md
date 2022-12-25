@@ -1,8 +1,8 @@
 # Python Turtle - uma aventura de programação!
 
-Este guião pretende ajudar a começar a programar em Python 3. É uma aventura que irá permitir-te compreender os conceitos básicos de programação, estruturar o pensamento e fazer uns desenhos e jogos fantásticos, baseado num módulo chamado `turtle`!
+Este guião pretende ajudar a começar a programar em Python 3 - uma linguagem de programação que te permite criar os teus próprios programas no computador. Os passos que se seguem são uma aventura que permitir-te-ão compreender os conceitos básicos de programação enquanto fazes desenhos e jogos fantásticos baseado num módulo chamado `turtle`! Irás, também, aprender a estruturar o pensamento para mais tarde desenvolveres programas e jogos ainda mais espetaculares!
 
-Boa sorte com a aventura!
+A aventura começa agora!
 
 ## Como começar
 
