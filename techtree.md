@@ -24,7 +24,9 @@ Por isso, e sem perdermos mais tempo, vamos começar a explorar este novo mundo!
 
 ## Como começar
 
-Para começarmos a programar em Python é necessário termos o interpretador de Python no nosso computador e um editor de texto. Recomendamos o 'Editor Mu' por ser simples de utilizar e trazer uma instalação de Python, simplificando o início desta aventura!
+Para começarmos a programar em Python é necessário termos o interpretador de Python no nosso computador e um editor de texto. Vamos utilizar a linguagem [Python 3](https://www.python.org/), que existe desde o dia 3 de dezembro de 2008, e que tem evoluído desde então – podes ver a evolução neste artigo em inglês [Python Version History: How Python has changed over the years](https://www.educative.io/blog/python-versions-history).
+
+Há muitas formas de programar e correr código Python, mas recomendamos o [Editor Mu](https://codewith.mu) por ser muito simples de utilizar e trazer incluída uma instalação de Python, simplificando o início desta aventura! O editor Mu, vontade de aprender e muita criatividade é mesmo tudo o que precisamos para começar!
 
 ```mermaid
   graph TD
